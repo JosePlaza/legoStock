@@ -1,0 +1,9 @@
+Part,Color,Quantity,Is Spare
+3001,4,6,False
+3001,15,4,False
+3023,72,10,False
+3069b,71,8,False
+3024,47,4,False
+3024,47,1,True
+3005,1005,2,False
+99999x,0,3,False

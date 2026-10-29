@@ -1,0 +1,14 @@
+{
+  "name": "LegoStock",
+  "short_name": "LegoStock",
+  "description": "Tu stock de piezas LEGO, tus proyectos y listas de Rebrickable",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#ffcf00",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

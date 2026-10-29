@@ -1,0 +1,9 @@
+# Datos locales: la base, sus copias y los archivos de antes de Supabase no se suben.
+# data/catalog.json sí: es el catálogo con el que arranca la API hasta que trae el de Supabase.
+.env
+node_modules/
+web/dist/
+data/*.db
+data/*.db-*
+data/backups/
+data/projects/

@@ -1,0 +1,8 @@
+node_modules/
+web/dist/
+data/*.db
+data/*.db-*
+.DS_Store
+data/projects/
+.env
+data/backups/
